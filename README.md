@@ -1,9 +1,7 @@
 - Hi!!! 
 - I'm ditching my field to purse software engineering! 
 - After weeks of not knowing where to start and getting confused with tech lingo, 
-  I have begun to venture into The Odin Project, CS50x, and discrete math. 
-  Hoping to print more than "Hello, world" in a few months!!
-  
+  I have begun to venture into The Odin Project, CS50x, and discrete math before attempting a second bachelor's in comp sci! I'M SO EXCITED!!!!!!
   
 -is this what having a passion feels like???  
 
